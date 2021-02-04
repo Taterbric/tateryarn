@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_107 net/minecraft/recipe/ShapedRecipe
+	FIELD field_319 width I
+	FIELD field_320 height I

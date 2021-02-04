@@ -1,0 +1,32 @@
+CLASS net/minecraft/class_243 net/minecraft/client/MinecraftClient
+	COMMENT The Main entrypoint for the client. Ran right after MinecraftApplet has started.
+	FIELD field_532 version Ljava/lang/String;
+	FIELD field_537 client Lnet/minecraft/class_243;
+	FIELD field_543 world Lnet/minecraft/class_101;
+	FIELD field_545 clientWorldManager Lnet/minecraft/class_176;
+	FIELD field_546 particleManager Lnet/minecraft/class_255;
+	FIELD field_548 applet Lnet/minecraft/class_158;
+	FIELD field_552 textureManager Lnet/minecraft/class_198;
+	FIELD field_553 livingEntity Lnet/minecraft/class_154;
+	FIELD field_554 textRenderer Lnet/minecraft/class_238;
+	FIELD field_556 gameRenderer Lnet/minecraft/class_192;
+	FIELD field_557 resourceDownloadThread Lnet/minecraft/class_268;
+	FIELD field_558 hudRenderer Lnet/minecraft/class_240;
+	FIELD field_561 options Lnet/minecraft/class_275;
+	FIELD field_946 ticks Lnet/minecraft/class_251;
+	FIELD field_947 canvas Ljava/awt/Canvas;
+	FIELD field_948 util Lnet/minecraft/class_159;
+	FIELD field_965 player Lnet/minecraft/class_264;
+	FIELD field_967 sessionData Lnet/minecraft/class_270;
+	FIELD field_973 screen Lnet/minecraft/class_236;
+	FIELD field_981 soundManager Lnet/minecraft/class_250;
+	METHOD <init> (Ljava/awt/Component;Ljava/awt/Canvas;Lnet/minecraft/class_158;IIZ)V
+		ARG 1 component
+		ARG 2 canvas
+		ARG 3 applet
+	METHOD method_530 (Lnet/minecraft/class_236;)V
+		ARG 1 screen
+	METHOD method_531 (Lnet/minecraft/class_263;)V
+		ARG 1 keyBinding
+	METHOD method_536 (Lnet/minecraft/class_263;)V
+		ARG 1 keyBinding

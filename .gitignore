@@ -1,12 +1,17 @@
-#Gradle
-.gradle
-build
+.gradle/
+*-merged.jar
+*-mapped.jar
+*-intermediary.jar
+*.DS_Store
+build/
+out/
+mappings_official/
+namedSrc/
 
-#Eclipse
-.settings
-.project
-.classpath
-*.launch
-bin
-run
-/.idea/
+# idea
+.idea/
+*.iml
+*.iws
+*.ipr
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar

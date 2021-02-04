@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_151 net/minecraft/entity/EntityDispatcher
+	METHOD method_370 fromTag (Lnet/minecraft/class_5;Lnet/minecraft/class_101;)Lnet/minecraft/class_140;
+		ARG 0 tag
+		ARG 1 world
+	METHOD method_372 getName (Lnet/minecraft/class_140;)Ljava/lang/String;
+		ARG 0 entity

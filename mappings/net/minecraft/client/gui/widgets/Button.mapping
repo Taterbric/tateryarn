@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_242 net/minecraft/client/gui/widgets/Button
+	FIELD field_935 text Ljava/lang/String;
+	FIELD field_938 width I
+	FIELD field_939 height I
+	METHOD <init> (IIIIILjava/lang/String;)V
+		ARG 6 text
+	METHOD method_599 render (Lnet/minecraft/class_243;II)V
+		ARG 1 client
+		ARG 2 x
+		ARG 3 y

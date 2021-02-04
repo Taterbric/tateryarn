@@ -1,0 +1,62 @@
+CLASS net/minecraft/class_101 net/minecraft/world/World
+	FIELD field_297 newWorld Z
+	METHOD method_210 playSound (DDDLjava/lang/String;FF)V
+		ARG 1 x
+		ARG 3 y
+		ARG 5 z
+		ARG 7 name
+		ARG 8 volume
+		ARG 9 pitch
+	METHOD method_212 getChunk (II)Lnet/minecraft/class_99;
+		ARG 1 x
+		ARG 2 z
+	METHOD method_222 getEntities (Ljava/lang/Class;)I
+		ARG 1 entityClass
+	METHOD method_223 addParticle (Ljava/lang/String;DDDDDD)V
+		ARG 1 name
+		ARG 2 x
+		ARG 4 y
+		ARG 6 z
+		ARG 8 velocityX
+		ARG 10 velocityY
+		ARG 12 velocityZ
+	METHOD method_231 playSound (Lnet/minecraft/class_140;Ljava/lang/String;FF)V
+		ARG 1 entity
+		ARG 2 name
+		ARG 3 volume
+		ARG 4 pitch
+	METHOD method_243 getTopY (II)I
+		ARG 1 x
+		ARG 2 z
+	METHOD method_244 isPosValid (III)Z
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+	METHOD method_246 (IIIII)Z
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+	METHOD method_258 setBlockAndUpdate (IIII)Z
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+		ARG 4 blockId
+	METHOD method_260 getDebugStringT ()Ljava/lang/String;
+		COMMENT Documentation on what this is meant to give is unclear.
+	METHOD method_262 isChunkLoaded (II)Z
+		ARG 1 x
+		ARG 2 z
+	METHOD method_276 (IIII)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+	METHOD method_279 onLightUpdate (IIII)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+		ARG 4 blockId
+	METHOD method_282 (IIII)V
+		ARG 1 x
+		ARG 2 y
+		ARG 3 z
+	METHOD method_283 getTickableEntities ()Ljava/util/List;
