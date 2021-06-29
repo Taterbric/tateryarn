@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_71 net/minecraft/game/block/BlockFurnace
+	FIELD field_31 isActive Z
+	METHOD a getBlockTextureFromSide (I)I
+	METHOD a blockActivated (Lnet/minecraft/class_94;IIILnet/minecraft/class_152;)Z

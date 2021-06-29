@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_179 net/minecraft/client/renderer/Frustrum
+	FIELD field_672 clippingHelper Lnet/minecraft/class_178;

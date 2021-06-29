@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_47 net/minecraft/game/block/BlockFluidSource
+	METHOD a getBlockTextureFromSide (I)I
+	METHOD a idDropped (ILjava/util/Random;)I
+	METHOD b isOpaqueCube ()Z
+	METHOD c renderAsNormalBlock ()Z
+	METHOD c shouldSideBeRendered (Lnet/minecraft/class_94;IIII)Z

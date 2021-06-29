@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_171 net/minecraft/client/renderer/entity/RenderSheep
+	METHOD a shouldRenderPass (Lnet/minecraft/class_151;I)Z

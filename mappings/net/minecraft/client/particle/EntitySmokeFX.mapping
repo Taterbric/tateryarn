@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_261 net/minecraft/client/particle/EntitySmokeFX
+	METHOD a_ onEntityUpdate ()V

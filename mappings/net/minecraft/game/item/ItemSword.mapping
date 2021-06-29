@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_115 net/minecraft/game/item/ItemSword
+	FIELD field_236 weaponDamage I
+	METHOD a getDamageVsEntity ()I
+	METHOD a hitEntity (Lnet/minecraft/class_123;)V
+	METHOD b onBlockDestroyed (Lnet/minecraft/class_123;)V
+	METHOD b getStrVsBlock (Lnet/minecraft/class_76;)F

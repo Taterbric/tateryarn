@@ -1,0 +1,15 @@
+CLASS net/minecraft/class_245 net/minecraft/client/player/PlayerControllerSurvival
+	FIELD field_988 curBlockX I
+	FIELD field_989 curBlockY I
+	FIELD field_990 curBlockZ I
+	FIELD field_991 curBlockDamage F
+	FIELD field_992 prevBlockDamage F
+	FIELD field_993 blockDestroySoundCounter F
+	FIELD field_994 blockHitWait I
+	METHOD a resetBlockRemoving ()V
+	METHOD a setPartialTime (F)V
+	METHOD a clickBlock (III)V
+	METHOD a sendBlockRemoving (IIII)V
+	METHOD b getBlockReachDistance ()F
+	METHOD b sendBlockRemoved (III)Z
+	METHOD d updateController ()V

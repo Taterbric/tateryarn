@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_138 net/minecraft/game/entity/monster/EntityMonster
+	FIELD field_438 attackStrength I
+	METHOD a findPlayerToAttack ()Lnet/minecraft/class_140;
+	METHOD a getBlockPathWeight (III)F
+	METHOD a attackEntity (Lnet/minecraft/class_140;F)V
+	METHOD a attackEntityFrom (Lnet/minecraft/class_140;I)Z
+	METHOD a_ onEntityUpdate ()V
+	METHOD e onLivingUpdate ()V

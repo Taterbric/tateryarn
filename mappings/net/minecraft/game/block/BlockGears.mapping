@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_63 net/minecraft/game/block/BlockGears
+	METHOD a getRenderType ()I
+	METHOD a getCollisionBoundingBoxFromPool (III)Lnet/minecraft/class_156;
+	METHOD a quantityDropped (Ljava/util/Random;)I
+	METHOD b isOpaqueCube ()Z
+	METHOD c renderAsNormalBlock ()Z
+	METHOD d isCollidable ()Z

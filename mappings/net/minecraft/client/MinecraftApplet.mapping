@@ -1,2 +1,0 @@
-CLASS net/minecraft/class_158 net/minecraft/client/MinecraftApplet
-	METHOD method_422 stopMinecraft ()V

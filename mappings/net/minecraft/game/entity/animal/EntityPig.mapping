@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_143 net/minecraft/game/entity/animal/EntityPig
+	METHOD b scoreValue ()I
+	METHOD f getLivingSound ()Ljava/lang/String;
+	METHOD g getHurtSound ()Ljava/lang/String;
+	METHOD h getDeathSound ()Ljava/lang/String;

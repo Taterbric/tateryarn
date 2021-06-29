@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_249 net/minecraft/client/sound/SoundPool
+	FIELD field_1005 rand Ljava/util/Random;
+	FIELD field_1006 nameToSoundPoolEntriesMapping Ljava/util/Map;
+	FIELD field_1007 numberOfSoundPoolEntries I
+	METHOD method_630 getRandomSoundFromSoundPool (Ljava/lang/String;)Lnet/minecraft/class_248;
+	METHOD method_631 addSound (Ljava/lang/String;Ljava/io/File;)Lnet/minecraft/class_248;

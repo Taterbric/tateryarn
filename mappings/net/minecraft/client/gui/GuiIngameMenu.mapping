@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_229 net/minecraft/client/gui/GuiIngameMenu
+	METHOD a drawScreen (IIF)V
+	METHOD a actionPerformed (Lnet/minecraft/class_293;)V
+	METHOD b initGui ()V

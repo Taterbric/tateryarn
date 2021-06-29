@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_45 net/minecraft/game/block/BlockSponge
+	METHOD a getRenderType ()I
+	METHOD a getCollisionBoundingBoxFromPool (III)Lnet/minecraft/class_156;
+	METHOD a quantityDropped (Ljava/util/Random;)I
+	METHOD a canPlaceBlockAt (Lnet/minecraft/class_94;III)Z
+	METHOD b isOpaqueCube ()Z
+	METHOD c renderAsNormalBlock ()Z
+	METHOD d isCollidable ()Z

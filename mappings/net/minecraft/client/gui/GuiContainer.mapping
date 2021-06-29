@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_227 net/minecraft/client/gui/GuiContainer
+	FIELD field_501 itemStack Lnet/minecraft/class_123;
+	FIELD field_892 xSize I
+	FIELD field_893 ySize I
+	FIELD field_894 inventorySlots Ljava/util/List;
+	FIELD field_895 itemRenderer Lnet/minecraft/class_165;
+	METHOD a onGuiClosed ()V
+	METHOD a keyTyped (CI)V
+	METHOD a drawScreen (IIF)V
+	METHOD a drawSlotInventory (III)V
+	METHOD c doesGuiPauseGame ()Z
+	METHOD method_567 guiCraftingItemsCheck ()V
+	METHOD method_568 drawGuiContainerBackgroundLayer ()V
+	METHOD method_569 drawGuiContainerForegroundLayer ()V

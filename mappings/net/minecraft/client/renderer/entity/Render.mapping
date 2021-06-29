@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_166 net/minecraft/client/renderer/entity/Render
+	FIELD field_391 renderManager Lnet/minecraft/class_169;
+	FIELD field_601 shadowSize F
+	FIELD field_602 shadowOpaque F
+	METHOD method_233 loadDownloadableImageTexture (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD method_235 doRender (Lnet/minecraft/class_140;DDDFF)V
+	METHOD method_237 setRenderManager (Lnet/minecraft/class_169;)V
+	METHOD method_431 loadTexture (Ljava/lang/String;)V

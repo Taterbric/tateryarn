@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_27 net/minecraft/client/inventory/InventoryLargeChest
+	FIELD field_47 name Ljava/lang/String;
+	FIELD field_48 upperChest Lnet/minecraft/class_103;
+	FIELD field_49 lowerChest Lnet/minecraft/class_103;
+	METHOD <init> (Ljava/lang/String;Lnet/minecraft/class_103;Lnet/minecraft/class_103;)V
+		ARG 1 s
+		ARG 2 iinventory
+		ARG 3 iinventory1
+	METHOD a getSizeInventory ()I
+	METHOD a getStackInSlot (I)Lnet/minecraft/class_123;
+	METHOD a decrStackSize (II)Lnet/minecraft/class_123;
+	METHOD a setInventorySlotContents (ILnet/minecraft/class_123;)V
+	METHOD b getInvName ()Ljava/lang/String;
+	METHOD c getInventoryStackLimit ()I

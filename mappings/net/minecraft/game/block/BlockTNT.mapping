@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_60 net/minecraft/game/block/BlockTNT
+	METHOD a getBlockTextureFromSide (I)I
+	METHOD a quantityDropped (Ljava/util/Random;)I
+	METHOD b onBlockDestroyedByPlayer (Lnet/minecraft/class_94;IIII)V

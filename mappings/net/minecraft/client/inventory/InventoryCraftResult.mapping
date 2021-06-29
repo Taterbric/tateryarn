@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_225 net/minecraft/client/inventory/InventoryCraftResult
+	FIELD field_500 stackResult [Lnet/minecraft/class_123;
+	METHOD a getSizeInventory ()I
+	METHOD a getStackInSlot (I)Lnet/minecraft/class_123;
+	METHOD a decrStackSize (II)Lnet/minecraft/class_123;
+	METHOD a setInventorySlotContents (ILnet/minecraft/class_123;)V
+	METHOD b getInvName ()Ljava/lang/String;
+	METHOD c getInventoryStackLimit ()I

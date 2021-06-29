@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_252 net/minecraft/client/particle/EntityBubbleFX
+	METHOD a_ onEntityUpdate ()V

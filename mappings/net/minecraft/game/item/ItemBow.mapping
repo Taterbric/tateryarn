@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_117 net/minecraft/game/item/ItemBow
+	METHOD a onItemRightClick (Lnet/minecraft/class_123;Lnet/minecraft/class_94;Lnet/minecraft/class_152;)Lnet/minecraft/class_123;

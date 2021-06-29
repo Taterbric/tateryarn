@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_59 net/minecraft/game/block/BlockLeavesBase
+	FIELD field_21 graphicsLevel Z
+	METHOD b isOpaqueCube ()Z
+	METHOD c shouldSideBeRendered (Lnet/minecraft/class_94;IIII)Z

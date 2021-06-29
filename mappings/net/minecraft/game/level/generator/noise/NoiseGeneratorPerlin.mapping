@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_81 net/minecraft/game/level/generator/noise/NoiseGeneratorPerlin
+	FIELD field_218 permutations [I
+	METHOD method_158 grad (IDDD)D
+	METHOD method_161 lerp (DDD)D
+	METHOD method_88 generateNoise (D)D

@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_137 net/minecraft/game/entity/monster/EntityCreeper
+	FIELD field_434 timeSinceIgnited I
+	FIELD field_435 lastActiveTime I
+	FIELD field_437 creeperState I
+	METHOD a attackEntity (Lnet/minecraft/class_140;F)V
+	METHOD b scoreValue ()I
+	METHOD d updatePlayerActionState ()V

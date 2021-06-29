@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_276 net/minecraft/client/GameSettings
+	METHOD a keyTyped (CI)V
+	METHOD a drawScreen (IIF)V
+	METHOD a actionPerformed (Lnet/minecraft/class_293;)V
+	METHOD b initGui ()V
+	METHOD e_ updateScreen ()V

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_254 net/minecraft/client/particle/EntityFlameFX
+	FIELD field_1023 flameScale F
+	METHOD a getEntityBrightness (F)F
+	METHOD a_ onEntityUpdate ()V

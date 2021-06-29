@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_218 net/minecraft/client/inventory/InventoryCrafting
+	FIELD field_499 stackList [Lnet/minecraft/class_123;
+	FIELD field_872 inventoryWidth I
+	FIELD field_873 eventHandler Lnet/minecraft/class_227;
+	METHOD a getSizeInventory ()I
+	METHOD a getStackInSlot (I)Lnet/minecraft/class_123;
+	METHOD a decrStackSize (II)Lnet/minecraft/class_123;
+	METHOD a setInventorySlotContents (ILnet/minecraft/class_123;)V
+	METHOD b getInvName ()Ljava/lang/String;
+	METHOD c getInventoryStackLimit ()I

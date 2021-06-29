@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_43 net/minecraft/game/block/BlockBreakable
+	FIELD field_16 localFlag Z
+	METHOD b isOpaqueCube ()Z
+	METHOD c shouldSideBeRendered (Lnet/minecraft/class_94;IIII)Z

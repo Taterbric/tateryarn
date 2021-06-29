@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_116 net/minecraft/game/item/ItemBlock
+	FIELD field_331 blockID I
+	METHOD a onItemUse (Lnet/minecraft/class_123;Lnet/minecraft/class_94;IIII)Z

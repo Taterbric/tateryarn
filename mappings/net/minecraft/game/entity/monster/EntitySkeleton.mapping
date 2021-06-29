@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_136 net/minecraft/game/entity/monster/EntitySkeleton
+	METHOD a attackEntity (Lnet/minecraft/class_140;F)V
+	METHOD b scoreValue ()I
+	METHOD e onLivingUpdate ()V

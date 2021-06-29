@@ -1,1 +1,13 @@
 CLASS net/minecraft/class_250 net/minecraft/client/sound/SoundManager
+	FIELD field_1008 sndSystem Lpaulscode/sound/SoundSystem;
+	FIELD field_1009 soundPoolSounds Lnet/minecraft/class_249;
+	FIELD field_1010 soundPoolMusic Lnet/minecraft/class_249;
+	FIELD field_1011 latestSoundID I
+	FIELD field_1013 loaded Z
+	METHOD method_633 playSoundFX (Ljava/lang/String;FF)V
+	METHOD method_634 playSound (Ljava/lang/String;FFFFF)V
+	METHOD method_635 addSound (Ljava/lang/String;Ljava/io/File;)V
+	METHOD method_636 setListener (Lnet/minecraft/class_151;F)V
+	METHOD method_638 closeMinecraft ()V
+	METHOD method_639 addMusic (Ljava/lang/String;Ljava/io/File;)V
+	METHOD method_640 tryToSetLibraryAndCodecs ()V

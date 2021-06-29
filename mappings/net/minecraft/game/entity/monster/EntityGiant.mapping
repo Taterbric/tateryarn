@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_134 net/minecraft/game/entity/monster/EntityGiant
+	METHOD a getBlockPathWeight (III)F

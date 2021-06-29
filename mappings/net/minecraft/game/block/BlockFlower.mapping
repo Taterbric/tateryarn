@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_42 net/minecraft/game/block/BlockFlower
+	METHOD a getRenderType ()I
+	METHOD a getCollisionBoundingBoxFromPool (III)Lnet/minecraft/class_156;
+	METHOD a canPlaceBlockAt (Lnet/minecraft/class_94;III)Z
+	METHOD b isOpaqueCube ()Z
+	METHOD c renderAsNormalBlock ()Z
+	METHOD method_12 canThisPlantGrowOnThisBlockID (I)Z

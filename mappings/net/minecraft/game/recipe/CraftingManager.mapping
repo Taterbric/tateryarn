@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_110 net/minecraft/game/recipe/CraftingManager
+	FIELD field_326 instance Lnet/minecraft/class_110;
+	FIELD field_327 recipes Ljava/util/List;
+	METHOD method_173 addRecipe (Lnet/minecraft/class_123;[Ljava/lang/Object;)V
+	METHOD method_302 getInstance ()Lnet/minecraft/class_110;
+	METHOD method_304 findMatchingRecipe ([I)Lnet/minecraft/class_123;

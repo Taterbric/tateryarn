@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_91 net/minecraft/game/block/MaterialLiquid
+	METHOD a isSolid ()Z
+	METHOD c getIsLiquid ()Z

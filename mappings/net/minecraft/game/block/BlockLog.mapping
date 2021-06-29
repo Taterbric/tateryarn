@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_39 net/minecraft/game/block/BlockLog
+	METHOD a getBlockTextureFromSide (I)I
+	METHOD a idDropped (ILjava/util/Random;)I
+	METHOD a quantityDropped (Ljava/util/Random;)I

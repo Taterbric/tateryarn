@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_72 net/minecraft/game/block/BlockWorkbench
+	METHOD a getBlockTextureFromSide (I)I
+	METHOD a blockActivated (Lnet/minecraft/class_94;IIILnet/minecraft/class_152;)Z

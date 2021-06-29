@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_135 net/minecraft/game/entity/monster/EntitySpider
+	METHOD a findPlayerToAttack ()Lnet/minecraft/class_140;
+	METHOD a attackEntity (Lnet/minecraft/class_140;F)V
+	METHOD b scoreValue ()I

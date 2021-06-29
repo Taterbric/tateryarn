@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_264 net/minecraft/client/player/EntityPlayerSP
+	FIELD field_1051 mc Lnet/minecraft/class_243;
+	FIELD field_584 movementInput Lnet/minecraft/class_265;
+	METHOD a displayGUIChest (Lnet/minecraft/class_103;)V
+	METHOD a displayGUIFurnace (Lnet/minecraft/class_36;)V
+	METHOD d updatePlayerActionState ()V
+	METHOD e onLivingUpdate ()V
+	METHOD f_ displayWorkbenchGUI ()V
+	METHOD method_653 displayGUIInventory ()V

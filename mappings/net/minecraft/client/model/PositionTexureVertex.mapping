@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_210 net/minecraft/client/model/PositionTexureVertex
+	FIELD field_489 vector3D Lnet/minecraft/class_155;
+	FIELD field_490 texturePositionX F
+	FIELD field_491 texturePositionY F
+	METHOD method_295 setTexturePosition (FF)Lnet/minecraft/class_210;

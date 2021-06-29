@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_246 net/minecraft/client/player/PlayerControllerCreative
+	METHOD a blankPlayerFunction (Lnet/minecraft/class_152;)V
+	METHOD d updateController ()V
+	METHOD e shouldDrawHUD ()Z

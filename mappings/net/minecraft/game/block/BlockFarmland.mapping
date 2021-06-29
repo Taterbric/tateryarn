@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_40 net/minecraft/game/block/BlockFarmland
+	METHOD a getBlockTextureFromSideAndMetadata (II)I
+	METHOD a getCollisionBoundingBoxFromPool (III)Lnet/minecraft/class_156;
+	METHOD a idDropped (ILjava/util/Random;)I
+	METHOD b isOpaqueCube ()Z
+	METHOD c renderAsNormalBlock ()Z
+	METHOD c onEntityWalking (Lnet/minecraft/class_94;III)V

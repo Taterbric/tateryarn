@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_145 net/minecraft/game/entity/other/EntityTNT
+	FIELD field_488 fuse I
+	METHOD a_ onEntityUpdate ()V
+	METHOD b_ getShadowSize ()F
+	METHOD c canBeCollidedWith ()Z

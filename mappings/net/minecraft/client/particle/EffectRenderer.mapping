@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_255 net/minecraft/client/particle/EffectRenderer
+	FIELD field_1025 fxLayers [Ljava/util/List;
+	FIELD field_1027 rand Ljava/util/Random;
+	METHOD method_642 updateEffects ()V
+	METHOD method_644 addBlockDestroyEffects (III)V
+	METHOD method_649 getStatistics ()Ljava/lang/String;

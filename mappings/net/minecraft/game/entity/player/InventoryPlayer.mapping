@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_153 net/minecraft/game/entity/player/InventoryPlayer
+	FIELD field_378 player Lnet/minecraft/class_152;
+	FIELD field_544 currentItem I
+	METHOD a getSizeInventory ()I
+	METHOD a getStackInSlot (I)Lnet/minecraft/class_123;
+	METHOD a decrStackSize (II)Lnet/minecraft/class_123;
+	METHOD a setInventorySlotContents (ILnet/minecraft/class_123;)V
+	METHOD b getInvName ()Ljava/lang/String;
+	METHOD c getInventoryStackLimit ()I
+	METHOD method_216 consumeInventoryItem (I)Z
+	METHOD method_217 getPlayerArmorValue ()I
+	METHOD method_382 getFirstEmptyStack (I)V
+	METHOD method_384 getInventorySlotContainItem (I)I
+	METHOD method_385 getCurrentItem ()Lnet/minecraft/class_123;

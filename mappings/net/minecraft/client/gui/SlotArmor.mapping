@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_222 net/minecraft/client/gui/SlotArmor
+	FIELD field_878 armorType I
+	METHOD a isItemValid (Lnet/minecraft/class_123;)Z
+	METHOD b getBackgroundIconIndex ()I

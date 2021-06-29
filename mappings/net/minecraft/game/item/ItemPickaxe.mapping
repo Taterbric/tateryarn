@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_104 net/minecraft/game/item/ItemPickaxe
+	FIELD field_234 blocksEffectiveAgainst [Lnet/minecraft/class_76;
+	FIELD field_316 getHarvestLevel I
+	METHOD a canHarvestBlock (Lnet/minecraft/class_76;)Z

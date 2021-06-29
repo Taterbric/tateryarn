@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_150 net/minecraft/game/entity/other/EntityArrow
+	FIELD field_348 owner Lnet/minecraft/class_151;
+	FIELD field_527 inGround Z
+	FIELD field_529 ticksInGround I
+	FIELD field_530 ticksInAir I
+	FIELD field_531 arrowShake I
+	METHOD a_ onEntityUpdate ()V
+	METHOD b_ getShadowSize ()F
+	METHOD method_369 setArrowHeading (DDDFF)V

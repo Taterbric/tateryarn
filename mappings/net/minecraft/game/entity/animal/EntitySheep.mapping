@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_142 net/minecraft/game/entity/animal/EntitySheep
+	FIELD field_484 sheared Z
+	METHOD a attackEntityFrom (Lnet/minecraft/class_140;I)Z
+	METHOD f getLivingSound ()Ljava/lang/String;
+	METHOD g getHurtSound ()Ljava/lang/String;
+	METHOD h getDeathSound ()Ljava/lang/String;

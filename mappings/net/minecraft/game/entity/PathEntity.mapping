@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_30 net/minecraft/game/entity/PathEntity
+	FIELD field_60 points [Lnet/minecraft/class_29;
+	FIELD field_61 pathIndex I
+	METHOD method_49 incrementPathIndex ()V
+	METHOD method_50 getPosition (Lnet/minecraft/class_140;)Lnet/minecraft/class_155;
+	METHOD method_51 isFinished ()Z

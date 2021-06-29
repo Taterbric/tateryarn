@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_70 net/minecraft/game/block/BlockStone
+	METHOD a idDropped (ILjava/util/Random;)I

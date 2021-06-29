@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_184 net/minecraft/client/renderer/block/TextureLavaFX
+	FIELD field_693 red [F
+	FIELD field_694 green [F
+	FIELD field_695 blue [F
+	FIELD field_696 alpha [F
+	METHOD a onTick ()V

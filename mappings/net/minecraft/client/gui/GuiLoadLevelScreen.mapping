@@ -1,0 +1,18 @@
+CLASS net/minecraft/class_232 net/minecraft/client/gui/GuiLoadLevelScreen
+	FIELD field_504 title Ljava/lang/String;
+	FIELD field_505 parent Lnet/minecraft/class_236;
+	FIELD field_506 finished Z
+	FIELD field_507 loaded Z
+	FIELD field_508 levels [Ljava/lang/String;
+	FIELD field_509 status Ljava/lang/String;
+	FIELD field_510 frozen Z
+	FIELD field_511 selectedFile Ljava/io/File;
+	METHOD a drawScreen (IIF)V
+	METHOD a actionPerformed (Lnet/minecraft/class_293;)V
+	METHOD b initGui ()V
+	METHOD e_ updateScreen ()V
+	METHOD method_300 openLevel (I)V
+	METHOD method_301 openLevel (Ljava/io/File;)V
+	METHOD method_303 unknown (Lnet/minecraft/class_232;Z)Z
+	METHOD method_304 setLevels ([Ljava/lang/String;)V
+	METHOD method_305 saveFileDialog ()Ljava/awt/FileDialog;

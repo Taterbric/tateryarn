@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_156 net/minecraft/client/physics/AxisAlignedBB
+	METHOD method_408 copy ()Lnet/minecraft/class_156;
+	METHOD method_410 isVecInYZ (Lnet/minecraft/class_155;)Z
+	METHOD method_411 calculateIntercept (Lnet/minecraft/class_155;Lnet/minecraft/class_155;)Lnet/minecraft/class_157;
+	METHOD method_415 isVecInXZ (Lnet/minecraft/class_155;)Z
+	METHOD method_418 isVecInXY (Lnet/minecraft/class_155;)Z

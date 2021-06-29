@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_155 net/minecraft/client/renderer/Vec3D
+	METHOD method_218 normalize ()Lnet/minecraft/class_155;
+	METHOD method_223 squareDistanceTo (Lnet/minecraft/class_155;)D
+	METHOD method_401 subtract (Lnet/minecraft/class_155;)Lnet/minecraft/class_155;

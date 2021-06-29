@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_172 net/minecraft/client/renderer/entity/RenderGiantZombie
+	FIELD field_405 scale F
+	METHOD a preRenderCallback (Lnet/minecraft/class_151;F)V

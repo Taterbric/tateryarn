@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_164 net/minecraft/client/renderer/entity/RenderTNTPrimed
+	METHOD a doRender (Lnet/minecraft/class_140;DDDFF)V

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_165 net/minecraft/client/renderer/entity/RenderItem
+	FIELD field_599 random Ljava/util/Random;
+	METHOD a doRender (Lnet/minecraft/class_140;DDDFF)V
+	METHOD method_232 renderItemOverlayIntoGUI (Lnet/minecraft/class_237;Lnet/minecraft/class_123;II)V

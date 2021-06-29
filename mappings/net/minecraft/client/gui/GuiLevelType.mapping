@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_241 net/minecraft/client/gui/GuiLevelType
+	FIELD field_531 worldType [Ljava/lang/String;
+	FIELD field_532 worldShape [Ljava/lang/String;
+	FIELD field_533 worldSize [Ljava/lang/String;
+	FIELD field_534 worldTheme [Ljava/lang/String;
+	FIELD field_535 selectedWorldType I
+	FIELD field_536 selectedWorldShape I
+	FIELD field_537 selectedWorldSize I
+	FIELD field_538 selectedWorldTheme I
+	FIELD field_931 prevGui Lnet/minecraft/class_236;
+	METHOD a drawScreen (IIF)V
+	METHOD a actionPerformed (Lnet/minecraft/class_293;)V
+	METHOD b initGui ()V
+	METHOD method_320 worldOptions ()V

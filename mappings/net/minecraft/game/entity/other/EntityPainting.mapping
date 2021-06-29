@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_133 net/minecraft/game/entity/other/EntityPainting
+	FIELD field_428 tickCounter1 I
+	METHOD a attackEntityFrom (Lnet/minecraft/class_140;I)Z
+	METHOD a_ onEntityUpdate ()V
+	METHOD c canBeCollidedWith ()Z
+	METHOD method_322 setDirection (I)V
+	METHOD method_323 onValidSurface ()Z
+	METHOD method_324 getArtSize (I)F

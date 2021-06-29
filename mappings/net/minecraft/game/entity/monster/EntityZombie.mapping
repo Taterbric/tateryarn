@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_139 net/minecraft/game/entity/monster/EntityZombie
+	METHOD b scoreValue ()I
+	METHOD e onLivingUpdate ()V

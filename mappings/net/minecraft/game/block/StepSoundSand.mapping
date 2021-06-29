@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_61 net/minecraft/game/block/StepSoundSand
+	METHOD a stepSoundDir ()Ljava/lang/String;

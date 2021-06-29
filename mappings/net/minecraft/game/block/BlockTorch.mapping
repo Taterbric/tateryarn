@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_41 net/minecraft/game/block/BlockTorch
+	METHOD a getRenderType ()I
+	METHOD a getCollisionBoundingBoxFromPool (III)Lnet/minecraft/class_156;
+	METHOD a canPlaceBlockAt (Lnet/minecraft/class_94;III)Z
+	METHOD a collisionRayTrace (Lnet/minecraft/class_94;IIILnet/minecraft/class_155;Lnet/minecraft/class_155;)Lnet/minecraft/class_157;
+	METHOD b isOpaqueCube ()Z
+	METHOD c renderAsNormalBlock ()Z
+	METHOD e onBlockPlaced (Lnet/minecraft/class_94;IIII)V

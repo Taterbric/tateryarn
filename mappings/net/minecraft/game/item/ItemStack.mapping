@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_123 net/minecraft/game/item/ItemStack
+	FIELD field_317 stackSize I
+	FIELD field_318 animationsToGo I
+	FIELD field_319 itemID I
+	FIELD field_320 itemDamage I
+	METHOD method_186 getItem ()Lnet/minecraft/class_121;
+	METHOD method_187 splitStack (I)Lnet/minecraft/class_123;
+	METHOD method_189 isItemStackDamageable ()I
+	METHOD method_190 damageItem (I)V

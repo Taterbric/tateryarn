@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_169 net/minecraft/client/renderer/entity/RenderManager
+	FIELD field_395 instance Lnet/minecraft/class_169;
+	FIELD field_398 playerViewY F
+	FIELD field_399 entityRenderMap Ljava/util/Map;
+	METHOD method_242 cacheActiveRenderInfo (Lnet/minecraft/class_94;Lnet/minecraft/class_196;Lnet/minecraft/class_152;F)V
+	METHOD method_243 getEntityRenderObject (Lnet/minecraft/class_140;)Lnet/minecraft/class_166;
+	METHOD method_244 renderEntity (Lnet/minecraft/class_140;F)V
+	METHOD method_245 renderEntityWithPosYaw (Lnet/minecraft/class_140;DDDFF)V

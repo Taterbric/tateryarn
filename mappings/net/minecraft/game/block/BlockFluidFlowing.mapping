@@ -1,0 +1,9 @@
+CLASS net/minecraft/class_65 net/minecraft/game/block/BlockFluidFlowing
+	FIELD field_22 stillId1 I
+	FIELD field_23 movingId1 I
+	METHOD a getCollisionBoundingBoxFromPool (III)Lnet/minecraft/class_156;
+	METHOD a quantityDropped (Ljava/util/Random;)I
+	METHOD b isOpaqueCube ()Z
+	METHOD c shouldSideBeRendered (Lnet/minecraft/class_94;IIII)Z
+	METHOD d isCollidable ()Z
+	METHOD e getRenderBlockPass ()I

@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_185 net/minecraft/client/renderer/block/TextureFlamesFX
+	FIELD field_697 flamesFloat1 [F
+	FIELD field_698 flamesFloat2 [F
+	METHOD a onTick ()V
