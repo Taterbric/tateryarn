@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_167 net/minecraft/client/renderer/entity/RenderPlayer
+	FIELD field_392 modelBipedMain Lnet/minecraft/class_208;
+	FIELD field_393 modelArmorChestplate Lnet/minecraft/class_208;
+	FIELD field_394 modelArmor Lnet/minecraft/class_208;
+	FIELD field_606 armorFilenamePrefix [Ljava/lang/String;
+	METHOD method_238 drawFirstPersonHand ()V
+	METHOD method_239 renderPlayer (Lnet/minecraft/class_152;FFFFF)V

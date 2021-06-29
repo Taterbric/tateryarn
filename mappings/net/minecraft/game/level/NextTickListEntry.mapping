@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_94 net/minecraft/game/level/NextTickListEntry
+	FIELD field_159 x I
+	FIELD field_160 y I
+	FIELD field_161 z I
+	FIELD field_162 block I
+	FIELD field_163 ticks I

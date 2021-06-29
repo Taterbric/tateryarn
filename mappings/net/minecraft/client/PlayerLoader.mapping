@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_251 net/minecraft/client/PlayerLoader
+	FIELD field_570 mc Lnet/minecraft/class_243;

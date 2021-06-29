@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_152 net/minecraft/game/entity/player/EntityPlayer
+	FIELD field_535 unusedByte B
+	FIELD field_536 getScore I
+	FIELD field_537 prevCameraYaw F
+	FIELD field_538 cameraYaw F
+	FIELD field_540 swingProgressInt I
+	FIELD field_541 inventory Lnet/minecraft/class_153;
+	METHOD method_212 canHarvestBlock (Lnet/minecraft/class_76;)Z
+	METHOD method_213 dropPlayerItem (Lnet/minecraft/class_123;)V
+	METHOD method_214 dropPlayerItemWithRandomChoice (Lnet/minecraft/class_123;Z)V
+	METHOD method_373 displayGUIFurnace (Lnet/minecraft/class_36;)V
+	METHOD method_378 displayGUIChest (Lnet/minecraft/class_103;)V
+	METHOD method_379 onItemPickup (Lnet/minecraft/class_140;)V
+	METHOD method_380 displayWorkbenchGUI ()V

@@ -1,0 +1,20 @@
+CLASS net/minecraft/class_156 net/minecraft/client/physics/AxisAlignedBB
+	FIELD field_382 minX F
+	FIELD field_383 minY F
+	FIELD field_384 minZ F
+	FIELD field_385 maxX F
+	FIELD field_386 maxY F
+	FIELD field_387 maxZ F
+	FIELD field_388 epsilon F
+	METHOD method_225 addCoord (FFF)Lnet/minecraft/class_156;
+	METHOD method_226 calculateXOffset (Lnet/minecraft/class_156;F)F
+	METHOD method_227 expand (FFF)Lnet/minecraft/class_156;
+	METHOD method_228 calculateYOffset (Lnet/minecraft/class_156;F)F
+	METHOD method_229 offset (FFF)V
+	METHOD method_230 calculateZOffset (Lnet/minecraft/class_156;F)F
+	METHOD method_408 copy ()Lnet/minecraft/class_156;
+	METHOD method_410 isVecInYZ (Lnet/minecraft/class_155;)Z
+	METHOD method_411 calculateIntercept (Lnet/minecraft/class_155;Lnet/minecraft/class_155;)Lnet/minecraft/class_157;
+	METHOD method_412 intersectsWith (Lnet/minecraft/class_156;)Z
+	METHOD method_415 isVecInXZ (Lnet/minecraft/class_155;)Z
+	METHOD method_418 isVecInXY (Lnet/minecraft/class_155;)Z

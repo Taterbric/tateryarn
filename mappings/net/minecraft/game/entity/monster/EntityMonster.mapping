@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_138 net/minecraft/game/entity/monster/EntityMonster
+	FIELD field_438 attackStrength I

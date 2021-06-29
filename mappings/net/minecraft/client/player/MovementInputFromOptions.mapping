@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_266 net/minecraft/client/player/MovementInputFromOptions
+	FIELD field_1055 movementKeyStates [Z
+	FIELD field_585 gameSettings Lnet/minecraft/class_276;

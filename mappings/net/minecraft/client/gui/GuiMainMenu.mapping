@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_294 net/minecraft/client/gui/GuiMainMenu
+	FIELD field_631 updateCounter F
+	FIELD field_632 splashes [Ljava/lang/String;
+	FIELD field_633 currentSplash Ljava/lang/String;

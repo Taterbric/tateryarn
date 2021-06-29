@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_119 net/minecraft/game/item/ItemTool
+	FIELD field_238 blocksEffectiveAgainst [Lnet/minecraft/class_76;
+	FIELD field_239 efficiencyOnProperMaterial F
+	FIELD field_333 damageVsEntity I

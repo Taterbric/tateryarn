@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_4 com/nbt/NBTTagFloat
+	FIELD field_3 floatValue F

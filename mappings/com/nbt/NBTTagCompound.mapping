@@ -1,0 +1,24 @@
+CLASS net/minecraft/class_5 com/nbt/NBTTagCompound
+	FIELD field_4 tagMap Ljava/util/Map;
+	METHOD method_10 setFloat (Ljava/lang/String;F)V
+	METHOD method_11 setInteger (Ljava/lang/String;I)V
+	METHOD method_12 setLong (Ljava/lang/String;J)V
+	METHOD method_13 setCompoundTag (Ljava/lang/String;Lnet/minecraft/class_5;)V
+	METHOD method_14 setTag (Ljava/lang/String;Lnet/minecraft/class_12;)V
+	METHOD method_15 setString (Ljava/lang/String;Ljava/lang/String;)V
+	METHOD method_16 setShort (Ljava/lang/String;S)V
+	METHOD method_17 setBoolean (Ljava/lang/String;Z)V
+	METHOD method_18 setByteArray (Ljava/lang/String;[B)V
+	METHOD method_19 getByte (Ljava/lang/String;)B
+	METHOD method_20 getShort (Ljava/lang/String;)S
+	METHOD method_21 getInteger (Ljava/lang/String;)I
+	METHOD method_22 getLong (Ljava/lang/String;)J
+	METHOD method_23 getFloat (Ljava/lang/String;)F
+	METHOD method_24 getString (Ljava/lang/String;)Ljava/lang/String;
+	METHOD method_25 getByteArray (Ljava/lang/String;)[B
+	METHOD method_26 getCompoundTag (Ljava/lang/String;)Lnet/minecraft/class_5;
+	METHOD method_27 getTagList (Ljava/lang/String;)Lnet/minecraft/class_8;
+	METHOD method_28 getBoolean (Ljava/lang/String;)Z
+	METHOD method_4 emptyNBTMap ()Z
+	METHOD method_8 hasKey (Ljava/lang/String;)Z
+	METHOD method_9 setByte (Ljava/lang/String;B)V

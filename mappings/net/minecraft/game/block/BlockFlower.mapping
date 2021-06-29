@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_42 net/minecraft/game/block/BlockFlower
+	METHOD method_12 canThisPlantGrowOnThisBlockID (I)Z
+	METHOD method_13 canBlockStay (Lnet/minecraft/class_101;III)Z
+	METHOD method_14 checkFlowerChange (Lnet/minecraft/class_101;III)V

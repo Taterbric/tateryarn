@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_165 net/minecraft/client/renderer/entity/RenderItem
+	FIELD field_598 renderBlocks Lnet/minecraft/class_193;
+	FIELD field_599 random Ljava/util/Random;
+	METHOD method_231 renderItemIntoGUI (Lnet/minecraft/class_198;Lnet/minecraft/class_123;II)V
+		ARG 1 renderEngineClass
+		ARG 2 itemStackClass
+	METHOD method_232 renderItemOverlayIntoGUI (Lnet/minecraft/class_237;Lnet/minecraft/class_123;II)V
+	METHOD method_428 renderQuad (Lnet/minecraft/class_188;IIIII)V

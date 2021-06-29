@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_66 net/minecraft/game/block/StepSound
+	FIELD field_26 soundVolume F
+	FIELD field_27 soundPitch F
+	FIELD field_28 sound Ljava/lang/String;
+	METHOD method_27 stepSoundDir ()Ljava/lang/String;
+	METHOD method_28 stepSoundDir2 ()Ljava/lang/String;

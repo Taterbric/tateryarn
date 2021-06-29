@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_115 net/minecraft/game/item/ItemSword
+	FIELD field_236 weaponDamage I

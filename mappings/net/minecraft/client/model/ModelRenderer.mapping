@@ -1,0 +1,19 @@
+CLASS net/minecraft/class_203 net/minecraft/client/model/ModelRenderer
+	FIELD field_455 rotateAngleX F
+	FIELD field_456 rotateAngleY F
+	FIELD field_457 rotateAngleZ F
+	FIELD field_458 mirror Z
+	FIELD field_459 showModel Z
+	FIELD field_460 corners [Lnet/minecraft/class_210;
+	FIELD field_461 faces [Lnet/minecraft/class_209;
+	FIELD field_462 textureOffsetX I
+	FIELD field_463 textureOffsetY I
+	FIELD field_464 rotationPointX F
+	FIELD field_465 rotationPointY F
+	FIELD field_466 rotationPointZ F
+	FIELD field_467 compiled Z
+	FIELD field_468 displayList I
+	FIELD field_469 isHidden Z
+	METHOD method_292 render (F)V
+	METHOD method_293 setRotationPoint (FFF)V
+	METHOD method_294 addBox (FFFIIIF)V

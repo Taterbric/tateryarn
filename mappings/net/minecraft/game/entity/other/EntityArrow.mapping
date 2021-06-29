@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_150 net/minecraft/game/entity/other/EntityArrow
+	FIELD field_348 owner Lnet/minecraft/class_151;
+	FIELD field_524 yTile I
+	FIELD field_525 zTile I
+	FIELD field_526 inTile I
+	FIELD field_527 inGround Z
+	FIELD field_529 ticksInGround I
+	FIELD field_530 ticksInAir I
+	FIELD field_531 arrowShake I
+	FIELD field_532 xTile I
+	METHOD method_369 setArrowHeading (FFFFF)V

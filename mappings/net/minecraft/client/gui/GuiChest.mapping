@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_226 net/minecraft/client/gui/GuiChest
+	FIELD field_889 upperChestInventory Lnet/minecraft/class_103;
+	FIELD field_890 lowerChestInventory Lnet/minecraft/class_103;
+	FIELD field_891 inventoryRows I

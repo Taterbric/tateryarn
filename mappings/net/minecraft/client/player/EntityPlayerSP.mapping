@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_264 net/minecraft/client/player/EntityPlayerSP
+	FIELD field_1051 mc Lnet/minecraft/class_243;
+	FIELD field_584 movementInput Lnet/minecraft/class_265;
+	METHOD method_653 displayGUIInventory ()V

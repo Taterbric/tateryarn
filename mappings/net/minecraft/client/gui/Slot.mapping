@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_224 net/minecraft/client/gui/Slot
+	FIELD field_883 slotIndex I
+	FIELD field_884 xPos I
+	FIELD field_885 yPos I
+	FIELD field_886 inventory Lnet/minecraft/class_103;
+	FIELD field_887 guiHandler Lnet/minecraft/class_227;
+	METHOD method_298 isItemValid (Lnet/minecraft/class_123;)Z
+	METHOD method_299 putStack (Lnet/minecraft/class_123;)V
+	METHOD method_561 onPickupFromSlot ()V
+	METHOD method_562 isAtCursorPos (II)Z
+	METHOD method_564 getBackgroundIconIndex ()I

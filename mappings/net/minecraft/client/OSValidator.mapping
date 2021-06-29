@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_274 net/minecraft/client/OSValidator
+	FIELD field_603 osValues [I

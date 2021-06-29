@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_122 net/minecraft/game/item/ItemArmor
+	FIELD field_312 armorType I
+	FIELD field_313 damageReduceAmount I
+	FIELD field_314 renderIndex I
+	FIELD field_315 damageReduceAmountArray [I
+	FIELD field_316 maxDamageArray [I

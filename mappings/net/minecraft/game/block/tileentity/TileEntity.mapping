@@ -1,0 +1,10 @@
+CLASS net/minecraft/class_35 net/minecraft/game/block/tileentity/TileEntity
+	FIELD field_10 worldObj Lnet/minecraft/class_101;
+	FIELD field_11 xCoord I
+	FIELD field_12 yCoord I
+	FIELD field_13 zCoord I
+	METHOD method_69 readFromNBT (Lnet/minecraft/class_5;)V
+		ARG 1 nbtTagCompound
+	METHOD method_71 writeToNBT (Lnet/minecraft/class_5;)V
+		ARG 1 nbtTagCompound
+	METHOD method_74 updateEntity ()V

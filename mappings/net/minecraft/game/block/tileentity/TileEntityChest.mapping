@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_37 net/minecraft/game/block/tileentity/TileEntityChest
+	FIELD field_15 chestContents [Lnet/minecraft/class_123;

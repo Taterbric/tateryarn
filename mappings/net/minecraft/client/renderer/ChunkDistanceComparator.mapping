@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_199 net/minecraft/client/renderer/ChunkDistanceComparator
+	FIELD field_448 entityplayer Lnet/minecraft/class_152;

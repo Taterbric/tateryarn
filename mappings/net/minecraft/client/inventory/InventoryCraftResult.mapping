@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_225 net/minecraft/client/inventory/InventoryCraftResult
+	FIELD field_500 stackResult [Lnet/minecraft/class_123;

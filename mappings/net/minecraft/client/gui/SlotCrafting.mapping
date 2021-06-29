@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_221 net/minecraft/client/gui/SlotCrafting
+	FIELD field_877 craftMatrix Lnet/minecraft/class_103;

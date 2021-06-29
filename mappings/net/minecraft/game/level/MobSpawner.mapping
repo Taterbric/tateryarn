@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_33 net/minecraft/game/level/MobSpawner
+	FIELD field_9 worldObj Lnet/minecraft/class_101;
+	METHOD method_8 spawn ()V

@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_159 net/minecraft/client/gui/GuiLevelLoading
+	FIELD field_389 text Ljava/lang/String;
+	FIELD field_390 title Ljava/lang/String;
+	FIELD field_593 mc Lnet/minecraft/class_243;
+	FIELD field_595 start J
+	METHOD method_425 writeLevelTags (Ljava/io/InputStream;)Lnet/minecraft/class_5;
+		ARG 0 inputstream

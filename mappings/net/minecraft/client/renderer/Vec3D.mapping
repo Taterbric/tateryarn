@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_155 net/minecraft/client/renderer/Vec3D
+	FIELD field_379 xCoord F
+	FIELD field_380 yCoord F
+	FIELD field_381 zCoord F
+	METHOD method_218 normalize ()Lnet/minecraft/class_155;
+	METHOD method_219 addVector (FFF)Lnet/minecraft/class_155;
+	METHOD method_220 getIntermediateWithXValue (Lnet/minecraft/class_155;F)Lnet/minecraft/class_155;
+	METHOD method_221 distance (Lnet/minecraft/class_155;)F
+	METHOD method_222 getIntermediateWithYValue (Lnet/minecraft/class_155;F)Lnet/minecraft/class_155;
+	METHOD method_223 squareDistanceTo (Lnet/minecraft/class_155;)F
+	METHOD method_224 getIntermediateWithZValue (Lnet/minecraft/class_155;F)Lnet/minecraft/class_155;
+	METHOD method_401 subtract (Lnet/minecraft/class_155;)Lnet/minecraft/class_155;

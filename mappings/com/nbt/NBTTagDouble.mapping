@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_9 com/nbt/NBTTagDouble
+	FIELD field_9 doubleValue D

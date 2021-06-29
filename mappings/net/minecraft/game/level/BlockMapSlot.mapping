@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_100 net/minecraft/game/level/BlockMapSlot
+	FIELD field_164 xSlot I
+	FIELD field_165 ySlot I
+	FIELD field_166 zSlot I
+	FIELD field_167 blockMap Lnet/minecraft/class_288;
+	METHOD method_100 init (FFF)Lnet/minecraft/class_100;
+	METHOD method_102 add (Lnet/minecraft/class_140;)V
+	METHOD method_104 remove (Lnet/minecraft/class_140;)V

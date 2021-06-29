@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_177 net/minecraft/client/renderer/ClippingHelperImpl
+	FIELD field_664 instance Lnet/minecraft/class_177;
+	FIELD field_665 projectionMatrixBuffer Ljava/nio/FloatBuffer;
+	FIELD field_666 modelviewMatrixBuffer Ljava/nio/FloatBuffer;
+	FIELD field_667 floatBuffer16 Ljava/nio/FloatBuffer;
+	METHOD method_470 init ()Lnet/minecraft/class_178;
+	METHOD method_471 normalize ([[FI)V

@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_233 net/minecraft/client/gui/GuiLevelDialog
+	FIELD field_512 screen Lnet/minecraft/class_232;

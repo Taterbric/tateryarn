@@ -1,0 +1,22 @@
+CLASS net/minecraft/class_92 net/minecraft/game/block/Material
+	FIELD field_146 ground Lnet/minecraft/class_92;
+	FIELD field_147 wood Lnet/minecraft/class_92;
+	FIELD field_148 rock Lnet/minecraft/class_92;
+	FIELD field_149 iron Lnet/minecraft/class_92;
+	FIELD field_150 water Lnet/minecraft/class_92;
+	FIELD field_151 lava Lnet/minecraft/class_92;
+	FIELD field_152 leaves Lnet/minecraft/class_92;
+	FIELD field_153 plants Lnet/minecraft/class_92;
+	FIELD field_154 sponge Lnet/minecraft/class_92;
+	FIELD field_155 cloth Lnet/minecraft/class_92;
+	FIELD field_156 fire Lnet/minecraft/class_92;
+	FIELD field_157 sand Lnet/minecraft/class_92;
+	FIELD field_158 glass Lnet/minecraft/class_92;
+	FIELD field_228 air Lnet/minecraft/class_92;
+	FIELD field_241 circuits Lnet/minecraft/class_92;
+	FIELD field_243 tnt Lnet/minecraft/class_92;
+	METHOD method_166 isSolid ()Z
+	METHOD method_167 getCanBlockGrass ()Z
+	METHOD method_168 getIsSolid ()Z
+	METHOD method_169 getIsLiquid ()Z
+	METHOD method_99 liquidSolidCheck ()Z

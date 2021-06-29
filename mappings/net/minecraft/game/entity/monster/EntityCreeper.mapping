@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_137 net/minecraft/game/entity/monster/EntityCreeper
+	FIELD field_434 timeSinceIgnited I
+	FIELD field_435 lastActiveTime I
+	FIELD field_436 fuseTime I
+	FIELD field_437 creeperState I

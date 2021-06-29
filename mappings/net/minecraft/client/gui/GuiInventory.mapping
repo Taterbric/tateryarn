@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_223 net/minecraft/client/gui/GuiInventory
+	FIELD field_879 inventoryCrafting Lnet/minecraft/class_218;
+	FIELD field_880 iInventory Lnet/minecraft/class_103;
+	FIELD field_881 xSize_lo F
+	FIELD field_882 ySize_lo F

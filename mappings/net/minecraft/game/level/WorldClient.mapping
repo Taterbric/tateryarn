@@ -1,0 +1,27 @@
+CLASS net/minecraft/class_102 net/minecraft/game/level/WorldClient
+	FIELD field_208 worldClientInt1 I
+	FIELD field_209 worldClientList1 Ljava/util/List;
+	FIELD field_210 worldObj Lnet/minecraft/class_101;
+	FIELD field_211 worldClientInt2 I
+	FIELD field_212 worldClientInt3 I
+	FIELD field_213 worldClientInt4 I
+	FIELD field_214 worldClientByteArray1 [B
+	FIELD field_215 blocks [B
+	FIELD field_216 worldClientIntArray1 [I
+	FIELD field_217 worldClientList2 Ljava/util/List;
+	FIELD field_218 worldClientList3 Ljava/util/List;
+	FIELD field_219 worldClientList4 Ljava/util/List;
+	FIELD field_220 worldClientList5 Ljava/util/List;
+	FIELD field_221 worldClientIntArray2 [I
+	FIELD field_222 worldClientByteArray2 [B
+	FIELD field_223 worldBlockPositionType Lnet/minecraft/class_79;
+	FIELD field_224 worldClientInt5 I
+	FIELD field_225 worldClientInt6 I
+	METHOD method_158 tick ()V
+	METHOD method_159 updateSkylight (I)V
+	METHOD method_160 worldClientMethod2 (IIII)V
+	METHOD method_161 worldClientMethod5 (IIIIII)V
+	METHOD method_162 skylightUpdates ()Ljava/lang/String;
+	METHOD method_163 worldClientMethod4 (I)V
+	METHOD method_164 lightingSomething (IIIIII)V
+	METHOD method_165 worldClientMethod1 ()[I

@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_8 com/nbt/NBTTagList
+	FIELD field_7 tagList Ljava/util/List;
+	FIELD field_8 tagType B
+	METHOD method_29 tagAt (I)Lnet/minecraft/class_12;
+	METHOD method_30 setTag (Lnet/minecraft/class_12;)V
+		ARG 1 nbtBase
+	METHOD method_31 tagCount ()I

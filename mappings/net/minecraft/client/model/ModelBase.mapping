@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_212 net/minecraft/client/model/ModelBase
+	METHOD method_296 render (FFFFFF)V
+	METHOD method_297 setRotationAngles (FFFFFF)V

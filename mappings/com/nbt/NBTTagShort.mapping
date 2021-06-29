@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_10 com/nbt/NBTTagShort
+	FIELD field_10 shortValue S

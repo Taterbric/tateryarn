@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_218 net/minecraft/client/inventory/InventoryCrafting
+	FIELD field_499 stackList [Lnet/minecraft/class_123;
+	FIELD field_872 inventoryWidth I
+	FIELD field_873 eventHandler Lnet/minecraft/class_227;

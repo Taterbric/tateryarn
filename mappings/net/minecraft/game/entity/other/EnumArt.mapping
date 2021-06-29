@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_149 net/minecraft/game/entity/other/EnumArt
+	FIELD field_500 title Ljava/lang/String;
+	FIELD field_501 sizeX I
+	FIELD field_502 sizeY I
+	FIELD field_503 offsetX I
+	FIELD field_504 offsetY I

@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_36 net/minecraft/game/block/tileentity/TileEntityFurnace
+	FIELD field_14 furnaceItemStacks [Lnet/minecraft/class_123;
+	FIELD field_80 furnaceBurnTime I
+	FIELD field_81 currentItemBurnTime I
+	FIELD field_82 furnaceCookTime I
+	METHOD method_10 smeltItem (I)I
+	METHOD method_77 getCookProgressScaled (I)I
+	METHOD method_78 getBurnTimeRemainingScaled (I)I
+	METHOD method_80 isBurning ()Z
+	METHOD method_81 canSmelt ()Z
+	METHOD method_9 getItemBurnTime (Lnet/minecraft/class_123;)I

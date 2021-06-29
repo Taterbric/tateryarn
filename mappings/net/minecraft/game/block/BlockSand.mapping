@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_75 net/minecraft/game/block/BlockSand
+	METHOD method_36 scheduleBlockUpdate (Lnet/minecraft/class_101;III)V

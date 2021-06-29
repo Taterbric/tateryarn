@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_178 net/minecraft/client/renderer/ClippingHelper
+	FIELD field_668 frustrum [[F
+	FIELD field_669 projectionMatrix [F
+	FIELD field_670 modelviewMatrix [F
+	FIELD field_671 clippingMatrix [F

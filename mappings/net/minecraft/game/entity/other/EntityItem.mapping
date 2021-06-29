@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_146 net/minecraft/game/entity/other/EntityItem
+	FIELD field_347 item Lnet/minecraft/class_123;
+	FIELD field_489 delayBeforeCanPickup I
+	FIELD field_490 hoverStart F
+	FIELD field_491 unknownEntityItemInt I
+	FIELD field_492 health I
+	FIELD field_494 age I

@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_118 net/minecraft/game/item/ItemSeeds
+	FIELD field_237 blockType I

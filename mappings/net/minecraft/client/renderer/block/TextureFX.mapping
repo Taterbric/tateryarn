@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_182 net/minecraft/client/renderer/block/TextureFX
+	FIELD field_684 imageData [B
+	FIELD field_685 iconIndex I
+	FIELD field_686 anaglyphEnabled Z
+	FIELD field_688 textureId I
+	METHOD method_478 onTick ()V

@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_69 net/minecraft/game/block/BlockContainer
+	METHOD method_34 getBlockEntity ()Lnet/minecraft/class_35;

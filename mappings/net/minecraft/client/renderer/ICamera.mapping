@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_290 net/minecraft/client/renderer/ICamera
+	METHOD method_265 isBoundingBoxInFrustrum (Lnet/minecraft/class_156;)Z

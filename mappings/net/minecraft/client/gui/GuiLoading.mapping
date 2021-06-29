@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_2 net/minecraft/client/gui/GuiLoading
+	METHOD method_1 setProgress (I)V
+	METHOD method_2 setTitle (Ljava/lang/String;)V
+	METHOD method_3 setText (Ljava/lang/String;)V

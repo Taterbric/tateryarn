@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_240 net/minecraft/client/gui/GuiControls
+	FIELD field_528 parentScreen Lnet/minecraft/class_236;
+	FIELD field_529 screenTitle Ljava/lang/String;
+	FIELD field_530 options Lnet/minecraft/class_276;
+	FIELD field_930 buttonId I

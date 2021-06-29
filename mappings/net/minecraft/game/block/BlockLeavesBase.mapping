@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_59 net/minecraft/game/block/BlockLeavesBase
+	FIELD field_21 graphicsLevel Z

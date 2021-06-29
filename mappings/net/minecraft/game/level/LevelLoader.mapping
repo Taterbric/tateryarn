@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_28 net/minecraft/game/level/LevelLoader
+	FIELD field_8 guiLoading Lnet/minecraft/class_2;
+	METHOD method_5 load (Ljava/io/InputStream;)Lnet/minecraft/class_101;
+		ARG 1 writeLevelTags
+	METHOD method_6 save (Lnet/minecraft/class_101;Ljava/io/OutputStream;)V
+	METHOD method_7 loadEntity (Lnet/minecraft/class_101;Ljava/lang/String;)Lnet/minecraft/class_140;

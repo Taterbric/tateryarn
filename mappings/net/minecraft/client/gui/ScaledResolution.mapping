@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_235 net/minecraft/client/gui/ScaledResolution
+	FIELD field_516 scaledWidth I
+	FIELD field_911 scaledHeight I
+	METHOD method_306 getScaledWidth ()I
+	METHOD method_307 getScaledHeight ()I

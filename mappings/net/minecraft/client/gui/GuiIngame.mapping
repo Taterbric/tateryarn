@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_239 net/minecraft/client/gui/GuiIngame
+	FIELD field_523 itemRenderer Lnet/minecraft/class_165;
+	FIELD field_524 chatMessageList Ljava/util/List;
+	FIELD field_525 rand Ljava/util/Random;
+	FIELD field_526 mc Lnet/minecraft/class_243;
+	FIELD field_527 updateCounter I
+	METHOD method_318 addChatMessage ()V
+	METHOD method_319 renderGameOverlay (F)V

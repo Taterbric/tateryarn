@@ -1,0 +1,14 @@
+CLASS net/minecraft/class_194 net/minecraft/client/renderer/ItemRenderer
+	FIELD field_438 itemToRender Lnet/minecraft/class_123;
+	FIELD field_764 mc Lnet/minecraft/class_243;
+	FIELD field_766 equippedProgress F
+	FIELD field_767 prevEquippedProgress F
+	FIELD field_768 equippedItemSlot I
+	FIELD field_769 itemRenderBool Z
+	FIELD field_770 renderBlocksInstance Lnet/minecraft/class_193;
+	METHOD method_526 updateEquippedItem ()V
+	METHOD method_527 renderItemInFirstPerson (F)V
+	METHOD method_528 resetEquippedProgress2 ()V
+	METHOD method_529 renderOverlays (F)V
+	METHOD method_530 equippedItemRender ()V
+	METHOD method_531 resetEquippedProgress ()V

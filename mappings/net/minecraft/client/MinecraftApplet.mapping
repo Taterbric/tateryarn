@@ -1,2 +1,6 @@
 CLASS net/minecraft/class_158 net/minecraft/client/MinecraftApplet
-	METHOD method_422 stopMinecraft ()V
+	FIELD field_589 mcCanvas Ljava/awt/Canvas;
+	FIELD field_590 mc Lnet/minecraft/class_243;
+	FIELD field_591 mcThread Ljava/lang/Thread;
+	METHOD method_421 startMainThread ()V
+	METHOD method_422 shutdown ()V

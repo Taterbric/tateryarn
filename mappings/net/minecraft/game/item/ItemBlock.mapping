@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_116 net/minecraft/game/item/ItemBlock
+	FIELD field_331 blockID I

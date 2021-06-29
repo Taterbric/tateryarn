@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_205 net/minecraft/client/model/ModelSpider
+	FIELD field_470 spiderHead Lnet/minecraft/class_203;
+	FIELD field_471 spiderNeck Lnet/minecraft/class_203;
+	FIELD field_472 spiderBody Lnet/minecraft/class_203;
+	FIELD field_473 spiderLeg1 Lnet/minecraft/class_203;
+	FIELD field_474 spiderLeg2 Lnet/minecraft/class_203;
+	FIELD field_475 spiderLeg3 Lnet/minecraft/class_203;
+	FIELD field_476 spiderLeg4 Lnet/minecraft/class_203;
+	FIELD field_477 spiderLeg5 Lnet/minecraft/class_203;
+	FIELD field_478 spiderLeg6 Lnet/minecraft/class_203;
+	FIELD field_479 spiderLeg7 Lnet/minecraft/class_203;
+	FIELD field_480 spiderLeg8 Lnet/minecraft/class_203;

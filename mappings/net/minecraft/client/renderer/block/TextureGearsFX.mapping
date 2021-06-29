@@ -1,0 +1,5 @@
+CLASS net/minecraft/class_183 net/minecraft/client/renderer/block/TextureGearsFX
+	FIELD field_689 gearsInt1 I
+	FIELD field_690 gearsIntArray1 [I
+	FIELD field_691 gearsIntArray2 [I
+	FIELD field_692 gearsInt2 I

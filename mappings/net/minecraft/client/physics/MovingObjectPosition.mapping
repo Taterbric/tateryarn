@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_157 net/minecraft/client/physics/MovingObjectPosition
+	FIELD field_582 typeOfHit I
+	FIELD field_583 blockX I
+	FIELD field_584 blockY I
+	FIELD field_585 blockZ I
+	FIELD field_586 sideHit I
+	FIELD field_587 hitVec Lnet/minecraft/class_155;
+	FIELD field_588 entityHit Lnet/minecraft/class_140;

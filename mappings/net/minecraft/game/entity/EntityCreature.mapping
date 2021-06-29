@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_144 net/minecraft/game/entity/EntityCreature
+	FIELD field_485 hasAttacked Z
+	FIELD field_486 pathToEntity Lnet/minecraft/class_30;
+	FIELD field_487 playerToAttack Lnet/minecraft/class_140;
+	METHOD method_361 findPlayerToAttack ()Lnet/minecraft/class_140;
+	METHOD method_362 getBlockPathWeight (III)F
+	METHOD method_364 attackEntity (Lnet/minecraft/class_140;F)V

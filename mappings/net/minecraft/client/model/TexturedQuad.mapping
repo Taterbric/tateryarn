@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_209 net/minecraft/client/model/TexturedQuad
+	FIELD field_488 vertexPositions [Lnet/minecraft/class_210;

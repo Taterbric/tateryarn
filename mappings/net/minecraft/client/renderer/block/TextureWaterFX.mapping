@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_186 net/minecraft/client/renderer/block/TextureWaterFX
+	FIELD field_699 red [F
+	FIELD field_700 green [F
+	FIELD field_701 blue [F
+	FIELD field_702 alpha [F
+	FIELD field_703 tickCounter I

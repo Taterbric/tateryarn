@@ -1,0 +1,12 @@
+CLASS net/minecraft/class_153 net/minecraft/game/entity/player/InventoryPlayer
+	FIELD field_376 mainInventory [Lnet/minecraft/class_123;
+	FIELD field_377 armorInventory [Lnet/minecraft/class_123;
+	FIELD field_378 player Lnet/minecraft/class_152;
+	FIELD field_544 currentItem I
+	METHOD method_215 storePartialItemStack (Lnet/minecraft/class_123;)Z
+	METHOD method_216 consumeInventoryItem (I)Z
+	METHOD method_217 getPlayerArmorValue ()I
+	METHOD method_382 getFirstEmptyStack (I)V
+	METHOD method_384 getInventorySlotContainItem (I)I
+	METHOD method_385 getCurrentItem ()Lnet/minecraft/class_123;
+	METHOD method_388 storeItemStack ()I

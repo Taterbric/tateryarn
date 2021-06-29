@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_170 net/minecraft/client/renderer/entity/RenderLiving
+	FIELD field_403 mainModel Lnet/minecraft/class_212;
+	FIELD field_404 renderPassModel Lnet/minecraft/class_212;
+	METHOD method_246 getDeathMaxRotation (Lnet/minecraft/class_151;)F
+	METHOD method_247 preRenderCallback (Lnet/minecraft/class_151;F)V
+	METHOD method_248 getColorMultiplier (Lnet/minecraft/class_151;FF)I
+	METHOD method_250 shouldRenderPass (Lnet/minecraft/class_151;I)Z
+	METHOD method_251 setRenderPassModel (Lnet/minecraft/class_212;)V

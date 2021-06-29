@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_269 net/minecraft/client/ThreadDownloadResources
+	FIELD field_588 resourcesFolder Ljava/io/File;
+	FIELD field_589 mc Lnet/minecraft/class_243;
+	FIELD field_590 closing Z
+	METHOD method_335 closeMinecraft ()V
+	METHOD method_336 downloadResource (Ljava/net/URL;Ljava/io/File;)V
+		ARG 1 url

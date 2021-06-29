@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_41 net/minecraft/game/block/BlockTorch
+	METHOD method_11 dropTorchIfCantStay (Lnet/minecraft/class_101;III)Z

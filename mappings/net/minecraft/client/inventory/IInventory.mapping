@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_103 net/minecraft/client/inventory/IInventory
+	METHOD method_289 getSizeInventory ()I
+	METHOD method_290 getStackInSlot (I)Lnet/minecraft/class_123;
+	METHOD method_291 decrStackSize (II)Lnet/minecraft/class_123;
+	METHOD method_292 setInventorySlotContents (ILnet/minecraft/class_123;)V
+	METHOD method_293 getInvName ()Ljava/lang/String;
+	METHOD method_294 getInventoryStackLimit ()I

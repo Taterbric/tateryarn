@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_208 net/minecraft/client/model/ModelBiped
+	FIELD field_481 bipedHead Lnet/minecraft/class_203;
+	FIELD field_482 bipedHeadwear Lnet/minecraft/class_203;
+	FIELD field_483 bipedBody Lnet/minecraft/class_203;
+	FIELD field_484 bipedRightArm Lnet/minecraft/class_203;
+	FIELD field_485 bipedLeftArm Lnet/minecraft/class_203;
+	FIELD field_486 bipedRightLeg Lnet/minecraft/class_203;
+	FIELD field_487 bipedLeftLeg Lnet/minecraft/class_203;

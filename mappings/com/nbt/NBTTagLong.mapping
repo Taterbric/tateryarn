@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_3 com/nbt/NBTTagLong
+	FIELD field_2 longValue J

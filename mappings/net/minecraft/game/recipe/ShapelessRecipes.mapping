@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_107 net/minecraft/game/recipe/ShapelessRecipes
+	FIELD field_235 recipeOutput Lnet/minecraft/class_123;
+	FIELD field_319 width I
+	FIELD field_320 height I
+	FIELD field_321 ingredientMap [I
+	METHOD method_172 createResult ()Lnet/minecraft/class_123;
+	METHOD method_297 matchRecipe ([I)Z
+	METHOD method_298 matches ([IIIZ)Z

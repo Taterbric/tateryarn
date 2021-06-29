@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_197 net/minecraft/client/renderer/ThreadDownloadImage
+	FIELD field_804 location Ljava/lang/String;
+	FIELD field_805 buffer Lnet/minecraft/class_180;
+	FIELD field_806 imageData Lnet/minecraft/class_196;

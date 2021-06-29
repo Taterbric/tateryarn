@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_7 com/nbt/NBTTagByte
+	FIELD field_6 byteValue B

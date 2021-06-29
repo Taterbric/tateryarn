@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_160 net/minecraft/client/renderer/RenderSorter
+	FIELD field_596 baseEntity Lnet/minecraft/class_152;

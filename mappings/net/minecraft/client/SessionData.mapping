@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_271 net/minecraft/client/SessionData
+	FIELD field_592 allowedBlocks Ljava/util/List;
+	FIELD field_593 username Ljava/lang/String;
+	FIELD field_594 sessionId Ljava/lang/String;

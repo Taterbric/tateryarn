@@ -1,0 +1,19 @@
+CLASS net/minecraft/class_198 net/minecraft/client/renderer/RenderEngine
+	FIELD field_447 options Lnet/minecraft/class_276;
+	FIELD field_807 textureMap Ljava/util/HashMap;
+	FIELD field_808 textureNameToImageMap Ljava/util/HashMap;
+	FIELD field_809 singleIntBuffer Ljava/nio/IntBuffer;
+	FIELD field_810 imageData Ljava/nio/ByteBuffer;
+	FIELD field_811 textureList Ljava/util/List;
+	FIELD field_812 urlToImageDataMap Ljava/util/Map;
+	FIELD field_814 clampTexture Z
+	METHOD method_541 updateDynamicTextures ()V
+	METHOD method_542 bindTexture (I)V
+	METHOD method_543 unwrapImageByColumns (Ljava/awt/image/BufferedImage;)Ljava/awt/image/BufferedImage;
+	METHOD method_544 setupTexture (Ljava/awt/image/BufferedImage;I)V
+	METHOD method_545 getTexture (Ljava/lang/String;)I
+	METHOD method_546 getTextureForDownloadableImage (Ljava/lang/String;Ljava/lang/String;)I
+	METHOD method_547 obtainImageData (Ljava/lang/String;Lnet/minecraft/class_180;)Lnet/minecraft/class_196;
+	METHOD method_548 registerTextureFX (Lnet/minecraft/class_182;)V
+	METHOD method_549 refreshTextures ()V
+	METHOD method_550 releaseImageData (Ljava/lang/String;)V

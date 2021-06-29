@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_47 net/minecraft/game/block/BlockFluidSource
+	FIELD field_19 liquidInt I

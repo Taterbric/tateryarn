@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_202 net/minecraft/client/model/ModelQuadruped
+	FIELD field_449 head Lnet/minecraft/class_203;
+	FIELD field_450 body Lnet/minecraft/class_203;
+	FIELD field_451 leg1 Lnet/minecraft/class_203;
+	FIELD field_452 leg2 Lnet/minecraft/class_203;
+	FIELD field_453 leg3 Lnet/minecraft/class_203;
+	FIELD field_454 leg4 Lnet/minecraft/class_203;

@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_83 net/minecraft/game/level/generator/noise/NoiseGeneratorOctaves
+	FIELD field_222 generatorCollection [Lnet/minecraft/class_81;
+	FIELD field_223 octaves I

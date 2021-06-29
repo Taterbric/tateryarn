@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_246 net/minecraft/client/player/PlayerControllerCreative
+	FIELD field_568 mobSpawner Lnet/minecraft/class_33;

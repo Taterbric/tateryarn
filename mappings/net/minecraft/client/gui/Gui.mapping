@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_238 net/minecraft/client/gui/Gui
+	FIELD field_522 zLevel F
+	METHOD method_313 drawRect (IIIII)V
+	METHOD method_314 drawGradientRect (IIIIII)V
+	METHOD method_315 drawCenteredString (Lnet/minecraft/class_237;Ljava/lang/String;III)V
+	METHOD method_316 drawTexturedModalRect (IIIIII)V
+	METHOD method_317 drawString (Lnet/minecraft/class_237;Ljava/lang/String;III)V

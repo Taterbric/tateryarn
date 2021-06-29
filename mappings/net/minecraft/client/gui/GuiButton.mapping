@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_293 net/minecraft/client/gui/GuiButton
+	FIELD field_544 displayString Ljava/lang/String;
+	FIELD field_545 id I
+	FIELD field_546 enabled Z
+	FIELD field_547 enabled2 Z
+	FIELD field_548 width I
+	FIELD field_549 height I
+	FIELD field_550 xPosition I
+	FIELD field_551 yPosition I
+	METHOD method_321 mousePressed (II)Z
+	METHOD method_322 drawButton (Lnet/minecraft/class_243;II)V

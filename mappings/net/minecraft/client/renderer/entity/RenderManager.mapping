@@ -1,0 +1,15 @@
+CLASS net/minecraft/class_169 net/minecraft/client/renderer/entity/RenderManager
+	FIELD field_395 instance Lnet/minecraft/class_169;
+	FIELD field_396 renderEngine Lnet/minecraft/class_198;
+	FIELD field_397 worldObj Lnet/minecraft/class_101;
+	FIELD field_398 playerViewY F
+	FIELD field_399 entityRenderMap Ljava/util/Map;
+	FIELD field_400 tickPosX F
+	FIELD field_401 tickPosY F
+	FIELD field_402 tickPosZ F
+	METHOD method_240 getDistanceToCamera (FFF)F
+	METHOD method_241 set (Lnet/minecraft/class_101;)V
+	METHOD method_242 cacheActiveRenderInfo (Lnet/minecraft/class_101;Lnet/minecraft/class_198;Lnet/minecraft/class_152;F)V
+	METHOD method_243 getEntityRenderObject (Lnet/minecraft/class_140;)Lnet/minecraft/class_166;
+	METHOD method_244 renderEntity (Lnet/minecraft/class_140;F)V
+	METHOD method_245 renderEntityWithPosYaw (Lnet/minecraft/class_140;FFFFF)V

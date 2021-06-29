@@ -1,0 +1,18 @@
+CLASS net/minecraft/class_193 net/minecraft/client/renderer/RenderBlocks
+	FIELD field_437 flipTexture Z
+	FIELD field_761 blockAccess Lnet/minecraft/class_101;
+	FIELD field_762 overrideBlockTexture I
+	METHOD method_275 materialNotWater (III)F
+	METHOD method_276 renderBlockOnInventory (Lnet/minecraft/class_76;)V
+	METHOD method_277 renderBlockTorch (Lnet/minecraft/class_76;FFFFF)V
+	METHOD method_278 renderBlockBottom (Lnet/minecraft/class_76;FFFI)V
+	METHOD method_279 renderBlockPlant (Lnet/minecraft/class_76;IFFF)V
+	METHOD method_280 renderBlockAllFaces (Lnet/minecraft/class_76;III)V
+	METHOD method_281 renderBlockTop (Lnet/minecraft/class_76;FFFI)V
+	METHOD method_282 renderBlockCrops (Lnet/minecraft/class_76;IFFF)V
+	METHOD method_283 renderBlockByRenderType (Lnet/minecraft/class_76;III)Z
+	METHOD method_284 renderBlockNorth (Lnet/minecraft/class_76;IIII)V
+	METHOD method_285 renderBlockSouth (Lnet/minecraft/class_76;IIII)V
+	METHOD method_286 renderBlockWest (Lnet/minecraft/class_76;IIII)V
+	METHOD method_287 renderBlockEast (Lnet/minecraft/class_76;IIII)V
+	METHOD method_518 renderBlockUsingTexture (Lnet/minecraft/class_76;IIII)V

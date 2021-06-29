@@ -1,0 +1,7 @@
+CLASS net/minecraft/class_79 net/minecraft/game/level/WorldBlockPositionType
+	FIELD field_123 posX I
+	FIELD field_124 posY I
+	FIELD field_125 posZ I
+	FIELD field_126 acceptCountdown I
+	FIELD field_127 blockID I
+	FIELD field_128 metadata I

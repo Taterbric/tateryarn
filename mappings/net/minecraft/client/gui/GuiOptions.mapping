@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_234 net/minecraft/client/gui/GuiOptions
+	FIELD field_513 parentScreen Lnet/minecraft/class_236;
+	FIELD field_514 screenTitle Ljava/lang/String;
+	FIELD field_515 options Lnet/minecraft/class_276;

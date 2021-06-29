@@ -1,0 +1,2 @@
+CLASS net/minecraft/class_6 com/nbt/NBTTagInt
+	FIELD field_5 intValue I

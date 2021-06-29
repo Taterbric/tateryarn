@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_211 net/minecraft/client/model/ModelCreeper
+	FIELD field_492 head Lnet/minecraft/class_203;
+	FIELD field_493 unusedCreeperHeadwear Lnet/minecraft/class_203;
+	FIELD field_494 body Lnet/minecraft/class_203;
+	FIELD field_495 leg1 Lnet/minecraft/class_203;
+	FIELD field_496 leg2 Lnet/minecraft/class_203;
+	FIELD field_497 leg3 Lnet/minecraft/class_203;
+	FIELD field_498 leg4 Lnet/minecraft/class_203;
